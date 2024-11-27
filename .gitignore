@@ -1,0 +1,13 @@
+# Ignorar carpetas y archivos
+model/
+outputs_models/
+predict/
+predict2/
+
+# Ignorar archivos 
+yolov8n.pt
+yolov8x.pt
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
